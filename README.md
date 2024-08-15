@@ -3,9 +3,9 @@
 -Email
 
 ## Actividad 1
-- programa 1
-- programa 2
-- programa 3
+- p01_HolaMundo
+- p02_AreaCirculo
+- p03_ÁreaTriangulo
 
 ## Actividad 
 - programa 4
