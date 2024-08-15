@@ -6,6 +6,7 @@
 - p01_HolaMundo
 - p02_AreaCirculo
 - p03_ÁreaTriangulo
+- p04_PagaTrabajador
 
 ## Actividad 
 - programa 4
