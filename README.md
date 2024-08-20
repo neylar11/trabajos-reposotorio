@@ -24,8 +24,8 @@
 - p15_ConvertirADolares
 
 ## Actividad3
-p16_TrabajandoEnteros
-p17_TrabajandoFlotantes
-p18_TrabajandoConstantes
-p19_TrabajandoCaracteres
-p20_ConversionTipos
+- p16_TrabajandoEnteros
+- p17_TrabajandoFlotantes
+- p18_TrabajandoConstantes
+- p19_TrabajandoCaracteres
+- p20_ConversionTipos
