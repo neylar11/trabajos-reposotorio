@@ -21,5 +21,6 @@ public class p04_PagaTrabajador {
     System.out.println(String.format("Paga Bruta    = %.2f", pagabruta));
     System.out.println(String.format("Impuestos     = %.2f", impuesto));
     System.out.println(String.format("'Paga Neta    =%.2f", paganeta));
+    obj.close();
   }
 }
