@@ -44,4 +44,5 @@ public class p32_PagoEstacionamiento {
 
         System.out.printf("Pagaste %.2f y un impuesto de %.2f en el total pagaste %.2f", pago, imp, total);
     }
+    scanner.close();
 }
