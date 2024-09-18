@@ -93,3 +93,10 @@
 - p62_SecuenciaNumeros2
 - p63_SumaTerminos1
 - p64_SumaTerminos2
+
+## Actividad11
+- p66_PromedioNumeros
+- p67_ConversionTemperaturas
+- p68_SumaRango
+- p69_TablaMultiplicar
+- p70_CalificacionLetra
