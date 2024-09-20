@@ -2,10 +2,10 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
-public class P61SistemaPapeleria {
+public class p65_SistemaPapeleria {
 
     public static void main(String[] args) {
-        //entrada donde se inicializan las ventas y totales, precios y los tipos al igual que el letrero
+        
         Scanner scanner = new Scanner(System.in);
         int ventaNumero = 1;
         int totalVentas = 0;

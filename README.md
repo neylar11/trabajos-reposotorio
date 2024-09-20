@@ -94,6 +94,9 @@
 - p63_SumaTerminos1
 - p64_SumaTerminos2
 
+## practica5
+- p65_SistemaPapeleria
+
 ## Actividad11
 - p66_PromedioNumeros
 - p67_ConversionTemperaturas
@@ -107,3 +110,10 @@
 - p73_SumaParesImpares
 - p74_Factorial
 - p75_CuadroCaracter
+
+## Practica
+- p76_NumeroMenor
+- p77_DiaSemana  
+- p78_MedidasLongitud  
+- p79_SumaMultiplos
+- p80_Angulo
