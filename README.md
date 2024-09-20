@@ -111,9 +111,16 @@
 - p74_Factorial
 - p75_CuadroCaracter
 
-## Practica
+## Practica6
 - p76_NumeroMenor
 - p77_DiaSemana  
 - p78_MedidasLongitud  
 - p79_SumaMultiplos
 - p80_Angulo
+
+## Actividad 13
+- p81_InicializaArregloNumeros
+- p82_InicializaArregloCadenas
+- p83_InicializaNombresEdades
+- p84_LeerArregloCalificaciones
+- p85_NombresEdades
