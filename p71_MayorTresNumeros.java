@@ -1,4 +1,4 @@
-/ p71_MayorTresNumeros - Calcula e imprime el mayor de 3 números 
+// p71_MayorTresNumeros - Calcula e imprime el mayor de 3 números 
 
 import java.util.Scanner;
 
