@@ -29,9 +29,7 @@ public class Cliente {
     public void setDescuento(float descuento) {
         Descuento = descuento;
     }
-    @Override
-    public String toString() {
-        return "Cliente [Id=" + Id + ", Nombre=" + Nombre + ", Descuento=" + Descuento + "]";
+
     }
     
     
