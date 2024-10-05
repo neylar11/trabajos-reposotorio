@@ -5,7 +5,7 @@
 
 ## Actividad 1
 - p01_HolaMundo
-- p02_AreaCirculo
+- p02_AreaCirculo   jjnmkjm,,
 - p03_ÁreaTriangulo
 - p04_PagaTrabajador
 
