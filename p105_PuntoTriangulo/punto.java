@@ -1,6 +1,6 @@
 package p105_PuntoTriangulo;
 
-public class Punto {
+public  class Punto {
     private int x;
     private int y;
    
