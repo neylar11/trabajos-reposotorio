@@ -42,7 +42,7 @@ public class Banco {
         return Domicilio;
     }
     public void reporte(){
-        for (Cliente cliente : clientes){
+        for (Cliente cliente : Clientes){
             System.out.println("> " + cliente);
             for (CuentaBancaria cuenta : cliente.getCuentas()) {
                 System.out.println(cuenta.toString());
