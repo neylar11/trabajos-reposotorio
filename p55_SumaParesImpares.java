@@ -3,6 +3,7 @@
 import java.util.Scanner;
 
 public class p55_SumaParesImpares {
+    @SuppressWarnings("resource")
     public static void main(String[] args) {
         int n, s, op;
         Scanner obj = new Scanner(System.in);

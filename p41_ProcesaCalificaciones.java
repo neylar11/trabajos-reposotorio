@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class p41_ProcesaCalificaciones {
+    @SuppressWarnings("resource")
     public static void main(String[] args) {
         int n, c;
         float cal, suma = 0, prom = 0;

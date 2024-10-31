@@ -12,6 +12,7 @@ public class p79_SumaMultiplos {
     }
 
     public static void main(String[] args) {
+        @SuppressWarnings("resource")
         Scanner scanner = new Scanner(System.in);
         
         System.out.print("Ingrese el inicio del rango: ");

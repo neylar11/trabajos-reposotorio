@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class p43_ConteoNumeros {
+    @SuppressWarnings("resource")
     public static void main(String[] args) {
         int c, n, s, cp, cn, cc;
 

@@ -30,6 +30,7 @@ public class p80_Angulo {
     public static void main(String[] args) {
         System.out.print("\033[H\033[2J");
         System.out.flush();
+        @SuppressWarnings("resource")
         Scanner scanner = new Scanner(System.in);
         
         System.out.print("Ingrese un ángulo y le diré el tipo: ");

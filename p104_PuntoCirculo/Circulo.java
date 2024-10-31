@@ -43,3 +43,13 @@ public class Circulo {
         return "Circulo{" + "centro=" + centro + ", radio=" + radio + '}';
     }
 }
+
+    public String getArea() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'getArea'");
+    }
+
+    public String getCircunferencia() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'getCircunferencia'");
+    }

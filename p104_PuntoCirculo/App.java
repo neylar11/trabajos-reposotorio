@@ -1,9 +1,10 @@
-package p104_PuntoTriangulo;
+package p104_PuntoCirculo;
 
 public class App {
     public static void main(String[] args) {
-        Circulo circulo1 = new Circulo(new Punto(5, 8), 6);
-        Circulo circulo2 = new Circulo(new Punto(30, 46), 2);
+        Circulo circulo1 = new Circulo();
+        Circulo circulo2;
+        circulo2 = new Circulo();
         System.out.println(circulo1);
         System.out.println(circulo2);
         System.out.println("Circulo 1 Area : " + circulo1.getArea());

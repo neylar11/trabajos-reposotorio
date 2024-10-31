@@ -1,9 +1,8 @@
 
-// Suma y promedio de n calificaciones
-import java.io.Console;
 import java.util.Scanner;
 
 public class p56_SumaPromedio {
+    @SuppressWarnings("resource")
     public static void main(String[] args) {
         int n;
         float cal, suma, prom;
