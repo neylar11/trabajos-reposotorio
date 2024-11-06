@@ -153,3 +153,59 @@
 - p101_TrabajoPersona
 - p102_AutorLibro
 - p103_ClienteFactura
+
+## Práctica 9
+- p104_PuntoCirculo
+- p105_PuntoTriangulo
+
+## Actividad 17
+- p106_Persona
+- p107_Forma
+- Práctica 10
+- p108_Vehiculo
+- p109_FormaV2
+
+## Actividad 18
+- p110_CuentaBancariaV1
+
+## Actividad 19
+- p111_CuentaBancariaV2
+
+## Práctica 11
+- p112_ControlVentas
+- p113_SegundoExamenParcial
+- p113_SegundoExamenParcial
+
+## Actividad 20
+- p114_Animal
+- p115_Telefono
+- p116_Juego
+- p117_FiguraGeometrica
+
+
+## Actividad 21
+- p118_Calculadora
+- p119_Organismo
+
+## Prática 12
+- p120_Vehículo
+
+## Actividad 22
+- p121_Excepcion1
+- p122_Excepcion2
+- p123_Excepcion3
+- p124_Excepcion4
+- p125_Excepcion5
+- p126_Excepcion6
+- p127_MiExcepcion
+
+## Práctica 13
+- p128_ExcepcionRaiz
+- p129_ExcepcionDulces
+- p130_ExcepcionEdades
+- p131_ExcepcionTemperatura
+
+## Actividad 23
+- p132_Archivos1
+- p133_Archivos2
+- p134_Archivos3
